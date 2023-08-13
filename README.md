@@ -6,6 +6,8 @@ One of the earliest difficulties encountered when the Internet began to grow was
 
 ## Resources
 
+[tblaase/Net_Practice](https://github.com/tblaase/Net_Practice)
+
 [What is TCP/IP?](https://www.youtube.com/watch?v=PpsEaqJV_A0)
 
 [lpaube/NetPractice](https://github.com/lpaube/NetPractice)
